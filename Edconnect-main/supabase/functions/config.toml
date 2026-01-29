@@ -1,0 +1,6 @@
+
+# Project ID from the Supabase dashboard
+project_id = "zlzkfgvbvjcjajcconzz"
+
+[functions.create-daily-room]
+verify_jwt = true
